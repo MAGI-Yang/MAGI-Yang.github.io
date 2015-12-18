@@ -7,7 +7,7 @@
 
 # Site settings
 title: KOMACHI
-email: luyang(a)whu.edu.cn
+email: luyang(at)whu.edu.cn
 description: "God said, 'Let there be light,' and there was light. ---- The First Day."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://MAGI-Yang.github.com" # the base hostname & protocol for your site
