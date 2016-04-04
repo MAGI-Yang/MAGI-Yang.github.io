@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "CLANNAD full voice　NoDVD化"
+date:   2016-04-05 02:00:00 +0900
 categories: games
 ---
 
