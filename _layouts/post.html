@@ -11,5 +11,17 @@ layout: default
   <div class="post-content" itemprop="articleBody">
     {{ content }}
   </div>
+  
+  
+  
+  <div class="recent-post">
+——————  
+  <h4>Recent Posts</h4>
+<ul>
+  {% for post in site.posts limit:5 %}
+  <li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
+</div>
 
 </article>
